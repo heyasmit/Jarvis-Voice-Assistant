@@ -170,3 +170,7 @@ Created by [Your Name] - feel free to contact me for any questions or suggestion
 ---
 
 **Enjoy using Jarvis Voice Assistant! 🚀**
+
+## 🧑‍💻 Developed By
+**ASMIT SRIVASTAVA**  
+Student at United College of Engineering and Research, Prayagraj
