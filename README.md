@@ -1,6 +1,6 @@
 # Jarvis Voice Assistant 🤖
 
-A Python-based voice assistant named "Jarvis" that can perform various tasks through voice commands. The assistant responds to a wake word and can open websites, play music, search information, and more.
+A Python-based voice assistant named "Jarvis" that can perform various tasks through voice commands. The assistant responds to a wake word and can open websites, play music, search for information, and more.
 
 ## Features ✨
 
@@ -171,6 +171,9 @@ Created by [Your Name] - feel free to contact me for any questions or suggestion
 
 **Enjoy using Jarvis Voice Assistant! 🚀**
 
-## 🧑‍💻 Developed By
-**ASMIT SRIVASTAVA**  
-Student at United College of Engineering and Research, Prayagraj
+## 👨‍💻 Developer
+
+**ASMIT SRIVASTAVA** 
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/asmit-srivastava-178420315/)  
+📸 **Instagram:** [@hey.asmit](https://www.instagram.com/hey.asmit/)  
